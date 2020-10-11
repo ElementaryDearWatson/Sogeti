@@ -150,3 +150,4 @@ C:\Develop\sogeti\tech-assessment\NickNalliC#\Sogeti\Sogeti\bin\Debug\netcoreapp
 C:\Develop\sogeti\tech-assessment\NickNalliC#\Sogeti\Sogeti\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Develop\sogeti\tech-assessment\NickNalliC#\Sogeti\Sogeti\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Develop\sogeti\tech-assessment\NickNalliC#\Sogeti\Sogeti\obj\Debug\netcoreapp3.1\Sogeti.MvcApplicationPartsAssemblyInfo.cache
+C:\Develop\sogeti\tech-assessment\NickNalliC#\Sogeti\Sogeti\obj\Debug\netcoreapp3.1\Sogeti.csprojAssemblyReference.cache
